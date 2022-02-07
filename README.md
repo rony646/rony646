@@ -23,4 +23,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rony646&show_icons=true&locale=en&theme=tokyonight" alt="rony646"/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rony646&theme=tokyonight" alt="rony646" width="68%"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rony646&theme=tokyonight" alt="rony646" width="65%"/></p>
