@@ -7,7 +7,7 @@
 
 - 👨‍💻 All(almost) of my projects are available at [https://ronydev.vercel.app/](https://ronydev.vercel.app/)
 
-- 💬 Ask me about **React.js, JavaScript, TypeScript, front-end development**
+- 💬 Ask me about **React.js, React Native, JavaScript, TypeScript, front-end development**
 
 - 📫 How to reach me **ronypeterson646@outlook.com**
 
