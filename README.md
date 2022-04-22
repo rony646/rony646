@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, Swift, etc...**
 
-- 👨‍💻 All(almost) of my projects are available at [https://ronydev.vercel.app/](https://ronydev.vercel.app/)
+- 👨‍💻 All (almost) of my projects are available at [https://ronydev.vercel.app/](https://ronydev.vercel.app/)
 
 - 💬 Ask me about **React.js, React Native, JavaScript, TypeScript and Front-end development**
 
