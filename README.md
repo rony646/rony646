@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rony646&label=Profile%20views&color=0e75b6&style=flat" alt="rony646" /> </p>
 
-- 🌱 I’m currently learning **React Native, Swift, etc...**
+- 🌱 I’m currently learning **React Native, Node.js, etc...**
 
 - 👨‍💻 All (almost) of my projects are available at [https://ronydev.vercel.app/](https://ronydev.vercel.app/)
 
