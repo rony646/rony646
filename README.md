@@ -10,6 +10,7 @@
 - 💬 Ask me about **React.js, React Native, JavaScript, TypeScript and Front-end development**
 
 - 📫 How to reach me **ronypeterson646@outlook.com**
+
   
 
 <h3 align="left">Connect with me:</h3>
